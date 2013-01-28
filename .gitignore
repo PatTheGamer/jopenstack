@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+jopenstack/bin
+.classpath
+*.swp
+.gradle
+.settings
+.project
